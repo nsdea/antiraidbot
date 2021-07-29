@@ -2,8 +2,8 @@
 AntiRaid Bot: An open source Discord Bot to prevent user spamming and join "raids".
 
 # Quickstart
-- [Invite and add me to your server](https://bit.ly/3fcleIi)
-- **`ar!setup`**
+- [**Invite and add** me to your server](https://bit.ly/3fcleIi)
+- Type **`ar!setup`** in any channel.
 - You're done! 
 - You may follow the instructions displayed, if any
 
